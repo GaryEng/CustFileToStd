@@ -1,0 +1,10 @@
+C:\Users\gary\source\repos\TransToStdOut\TransToStdOut\obj\Debug\TransToStdOut.csprojAssemblyReference.cache
+C:\Users\gary\source\repos\TransToStdOut\TransToStdOut\obj\Debug\TransToStdOut.csproj.CoreCompileInputs.cache
+C:\Users\gary\source\repos\TransToStdOut\TransToStdOut\bin\Debug\TransToStdOut.exe.config
+C:\Users\gary\source\repos\TransToStdOut\TransToStdOut\bin\Debug\TransToStdOut.exe
+C:\Users\gary\source\repos\TransToStdOut\TransToStdOut\bin\Debug\TransToStdOut.pdb
+C:\Users\gary\source\repos\TransToStdOut\TransToStdOut\bin\Debug\CustFiles.dll
+C:\Users\gary\source\repos\TransToStdOut\TransToStdOut\bin\Debug\CustFiles.pdb
+C:\Users\gary\source\repos\TransToStdOut\TransToStdOut\obj\Debug\TransToStdOut.csproj.CopyComplete
+C:\Users\gary\source\repos\TransToStdOut\TransToStdOut\obj\Debug\TransToStdOut.exe
+C:\Users\gary\source\repos\TransToStdOut\TransToStdOut\obj\Debug\TransToStdOut.pdb

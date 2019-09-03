@@ -1,0 +1,6 @@
+C:\Users\gary\source\repos\TransToStdOut\CustFiles\bin\Debug\CustFiles.dll
+C:\Users\gary\source\repos\TransToStdOut\CustFiles\bin\Debug\CustFiles.pdb
+C:\Users\gary\source\repos\TransToStdOut\CustFiles\obj\Debug\CustFiles.csproj.CoreCompileInputs.cache
+C:\Users\gary\source\repos\TransToStdOut\CustFiles\obj\Debug\CustFiles.dll
+C:\Users\gary\source\repos\TransToStdOut\CustFiles\obj\Debug\CustFiles.pdb
+C:\Users\gary\source\repos\TransToStdOut\CustFiles\obj\Debug\CustFiles.csprojAssemblyReference.cache
