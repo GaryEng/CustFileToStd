@@ -1,1 +1,5 @@
-﻿How to use:
+This project reads different format of customer files and convert to a standard export format into a DataTable, then write the DataTable to standard format csv file with required header, or can be imported to database table.
+Current code supports to convert two types of format customer files to a standard file. It is easy to extend to use for other customer format file. 
+To extend a new customer file, create a new class derived from IStdOut interface and modify linq query in "select new block" to fit new format file.
+Add error catch block when read a line from customer file in case incorrect format line read from file. To avoid exception when ParseExact date string to DataTime type, a method with TryParseExact() can be called from linq query as well, or check whether date format is correct while read line from the file. 
+If customer file is large size, i.e., larger than 10M, we can use this method in derived class, read one line then write directly to export file. It will minimize memory usage.
